@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pmsmadubashana
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning as a software engineer
+- 👀 I’m interested in Web Development
+- 🌱 I’m a graduated software engineer,I did my bachelor's degree from University of Plymouth in UK
 - 💞️ I’m looking to collaborate on other github content
 - 📫 How to reach me ...
 
